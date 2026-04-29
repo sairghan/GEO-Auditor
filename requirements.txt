@@ -1,0 +1,7 @@
+streamlit
+pandas
+pydantic
+langchain-google-genai
+tavily-python
+beautifulsoup4
+langchain-community
